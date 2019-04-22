@@ -1,4 +1,0 @@
-<?php
-   echo "<strong>To jest szkodliwy kod.</strong>";
-   echo "<strong>Tu moglbym umiescic zlosliwe sktypty.</strong>";
-?>
